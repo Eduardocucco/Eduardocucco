@@ -42,3 +42,21 @@
 </div>
 
 ###
+
+<h2 align="left">Social Media</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/emerson-eduardo-cucco-8b9b1717a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/educucco/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://wa.me/5548996373621?text=Oi%20%3A)" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
